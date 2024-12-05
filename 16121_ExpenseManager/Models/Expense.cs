@@ -5,6 +5,7 @@ namespace _16121_ExpenseManager.Models
 {
     public class Expense
     {
+        // 00016121
         [Key]
         public int Id { get; set; }
 
@@ -21,6 +22,8 @@ namespace _16121_ExpenseManager.Models
         [ForeignKey("Category")]
         public int CategoryId { get; set; }
 
+
         public Category Category { get; set; }
+
     }
 }

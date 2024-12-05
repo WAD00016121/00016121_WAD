@@ -1,6 +1,5 @@
 ﻿using _16121_ExpenseManager.Models;
 using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
 
 namespace _16121_ExpenseManager.Data
 {
@@ -10,7 +9,9 @@ namespace _16121_ExpenseManager.Data
         {
         }
 
-        public DbSet<Expense> Expenses { get; set; }
+
+        public DbSet<Expense> Expenses16121 { get; set; }
         public DbSet<Category> Categories { get; set; }
+
     }
 }

@@ -14,6 +14,7 @@ builder.Services.AddDbContext<ExpenseManagerDbContext>(options =>
 
 
 
+// 00016121
 
 var app = builder.Build();
 
@@ -24,7 +25,6 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
