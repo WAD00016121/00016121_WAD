@@ -15,6 +15,8 @@ Technologies used: .NET 6, SQL Server Localdb, ASP.NET core, Entity Framework.
 You can clone the repository using Github Desktop by getting the URL from the main page of this repository. Configure the database. If needed, you should run Migrations: dotnet ef database update
 All other parts should work very well!
 
+Unfortunately, there is no unique patterns used in the project, everything is simple without patterns
+
 ![alt text](image.png)
 
 ![alt text](image-1.png)
