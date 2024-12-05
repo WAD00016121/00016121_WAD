@@ -19,16 +19,16 @@
       "RelativeMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|solutionrelative:data\\expensemanagerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|c:\\users\\user\\desktop\\wad\\00016121_wad\\16121_expensemanager\\migrations\\expensemanagerdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|solutionrelative:migrations\\expensemanagerdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|c:\\users\\user\\desktop\\wad\\00016121_wad\\16121_expensemanager\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|solutionrelative:controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|c:\\users\\user\\desktop\\wad\\00016121_wad\\16121_expensemanager\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|c:\\users\\user\\desktop\\wad\\00016121_wad\\16121_expensemanager\\migrations\\expensemanagerdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|solutionrelative:migrations\\expensemanagerdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|c:\\users\\user\\desktop\\wad\\00016121_wad\\16121_expensemanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ExpenseManagerDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\Migrations\\ExpenseManagerDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\ExpenseManagerDbContextModelSnapshot.cs",
@@ -102,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ExpenseController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\Controllers\\ExpenseController.cs",
               "RelativeDocumentMoniker": "Controllers\\ExpenseController.cs",
@@ -110,19 +110,21 @@
               "RelativeToolTip": "Controllers\\ExpenseController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T16:28:50.737Z"
+              "WhenOpened": "2024-12-05T16:28:50.737Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T16:28:11.271Z"
+              "WhenOpened": "2024-12-05T16:28:11.271Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -132,9 +134,10 @@
               "RelativeDocumentMoniker": "Models\\Expense.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\Models\\Expense.cs",
               "RelativeToolTip": "Models\\Expense.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAwwBoAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T11:15:18.769Z"
+              "WhenOpened": "2024-12-05T11:15:18.769Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -158,7 +161,8 @@
               "RelativeToolTip": "Data\\ExpenseManagerDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T11:17:24.521Z"
+              "WhenOpened": "2024-12-05T11:17:24.521Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -170,7 +174,8 @@
               "RelativeToolTip": "Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T11:17:00.019Z"
+              "WhenOpened": "2024-12-05T11:17:00.019Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -180,7 +185,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABAAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T11:11:03.521Z",
               "EditorCaption": ""
