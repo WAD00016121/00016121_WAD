@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|c:\\users\\user\\desktop\\wad\\00016121_wad\\16121_expensemanager\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|solutionrelative:controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|c:\\users\\user\\desktop\\wad\\00016121_wad\\16121_expensemanager\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\Migrations\\20241205161646_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241205161646_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|c:\\users\\user\\desktop\\wad\\00016121_wad\\16121_expensemanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|c:\\users\\user\\desktop\\wad\\00016121_wad\\16121_expensemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|c:\\users\\user\\desktop\\wad\\00016121_wad\\16121_expensemanager\\data\\expensemanagerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|solutionrelative:data\\expensemanagerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|c:\\users\\user\\desktop\\wad\\00016121_wad\\16121_expensemanager\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|c:\\users\\user\\desktop\\wad\\00016121_wad\\16121_expensemanager\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E21BF5D-1BCF-4405-A926-AB6D9CA41D8B}|16121_ExpenseManager.csproj|solutionrelative:models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +42,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpenseController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\Controllers\\ExpenseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExpenseController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\Controllers\\ExpenseController.cs",
+              "RelativeToolTip": "Controllers\\ExpenseController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:28:50.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:28:11.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241205161646_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\Migrations\\20241205161646_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241205161646_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\Migrations\\20241205161646_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241205161646_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:16:46.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\Models\\Expense.cs",
+              "RelativeToolTip": "Models\\Expense.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:15:18.769Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:655749561:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
@@ -54,6 +139,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:948149136:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T11:19:16.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExpenseManagerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\Data\\ExpenseManagerDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ExpenseManagerDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\Data\\ExpenseManagerDbContext.cs",
+              "RelativeToolTip": "Data\\ExpenseManagerDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:17:24.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:17:00.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:11:03.521Z",
+              "EditorCaption": ""
             }
           ]
         }
