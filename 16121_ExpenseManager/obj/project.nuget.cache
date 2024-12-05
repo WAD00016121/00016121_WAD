@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "/DDzKSZD5bdo0OF1kyRqPc1F0xeIVzSWtM8q0FCCARwkNC2WURdjukBpopD30OKH6BoLvlbrhaKqpVsC5lofyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\WAD\\00016121_WAD\\16121_ExpenseManager\\16121_ExpenseManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
